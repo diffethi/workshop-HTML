@@ -20,6 +20,7 @@ ul{
       
 }
 li{
+    background-color: white;
     list-style-type: none;
     border-radius: 5px;
     color: white;
