@@ -1,13 +1,6 @@
 body{
     background-color: #000099;
-    border: solid 1px;
-    border-color: #000099;
-   
     
-    padding-top: 10px;
-   
-    margin: 10px;
-    padding-inline: 10px;
 
 
 }
@@ -37,9 +30,9 @@ li{
     border-color: white;
    
     
-    padding-top: 10px;
+    padding-top: 10px 10px 10px 10px;
    
-    margin: 10px;
+    margin: 10px 10px 10px 10pxx;
     padding-inline: 10px;
 }
 input [text] {
