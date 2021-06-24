@@ -14,11 +14,11 @@ h2{
     text-align: left;
 }
 
-ul{
+/*ul{
     list-style: none;
     padding: 5px 5px;
     margin:5px 5px;
-}
+}*/
 
 li :horizontal:hover{
 
