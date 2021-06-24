@@ -36,3 +36,7 @@ input [text] {
 input [submit]  {
     border-radius: 8px;
 }
+.item{
+    color: white;
+
+}
