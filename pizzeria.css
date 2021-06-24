@@ -14,8 +14,13 @@ h2{
     text-align: left;
 }
 
-li:vertical-align{
-    list-style-type:none;
+ul{
+    padding: 5px 5px;
+    margin:5px 5px;
+}
+
+li :horizontal:hover{
+    display: inline;
     text-align: center;
     font-family: Arial, Helvetica white;
     background-color: #C03000;
