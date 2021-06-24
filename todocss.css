@@ -21,15 +21,15 @@ ul{
 li{
     border-radius: 5px;
 }
-input :first-child :placeholder-shown{
+input [text] {
 
 
-    color: white;
+    color: rgb(61, 60, 60);
     align-content:flex-start;
     border-radius:5px ;
 
     
 }
-input :last-child {
+input [submit]  {
     border-radius: 8px;
 }
