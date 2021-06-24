@@ -1,0 +1,29 @@
+body{
+    background-color: #EFECCA;
+}
+
+h1{
+    color: #C03000;
+    font-family:Arial, Helvetica;
+    text-align: left;
+}
+
+h2{
+    color: #4BB5C1;
+    font-family:Arial, Helvetica;
+    text-align: left;
+}
+
+li{
+    text-align: center;
+    font-family: Arial, Helvetica white;
+    background-color: #C03000;
+   
+    padding: 5px 5px;
+    border:1px solid #660000;
+    margin:5px 5px ;
+}
+
+a{
+    color:#0000FF;
+}
