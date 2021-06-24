@@ -13,7 +13,7 @@ form{
     color: white;
 }
 ul{
-    color :black;
+    
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding: 10px 10px;
@@ -21,7 +21,7 @@ ul{
 }
 li{
     color: black;
-    background-color: white;
+   
     list-style-type: none;
     border-radius: 5px;
     border: solid 1px;
