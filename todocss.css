@@ -1,14 +1,12 @@
 body{
     background-color: #000099;
 
-
 }
 h1{
     color:white;
     font-family:Arial, Helvetica, sans-serif;
     text-align: center;
     padding:10px 10px;
-
 
 }
 ul{
@@ -17,8 +15,10 @@ ul{
     text-align: center;
     padding: 10px 10px;
     
+  
 }
 li{
+    list-style-type: none;
     border-radius: 5px;
 }
 input [text] {
