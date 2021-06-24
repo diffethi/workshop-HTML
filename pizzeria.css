@@ -25,12 +25,14 @@ li :horizontal:hover{
     border:1px solid #660000;
     background-color: #C03000;
     display: inline;
+    padding: 5px;
+    margin: auto;
 }   
 li a{ 
     color: #efecca;
     text-decoration: none;
     font-family: Arial, Helvetica white;
-    padding: auto;
+    padding: 5px;
     margin: auto;
 
 
@@ -38,5 +40,6 @@ li a{
 }
 
 a:visited,a:active,a:hover{
+    text-decoration: none;
     color:#0000FF;
 }
