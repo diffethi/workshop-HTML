@@ -14,7 +14,7 @@ h2{
     text-align: left;
 }
 
-li{
+li:hover{
     text-align: center;
     font-family: Arial, Helvetica white;
     background-color: #C03000;
@@ -24,6 +24,6 @@ li{
     margin:5px 5px ;
 }
 
-a{
+a:visited,a:active;a:hover{
     color:#0000FF;
 }
