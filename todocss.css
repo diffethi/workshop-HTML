@@ -1,11 +1,13 @@
 body{
     background-color: #000099;
 
+
 }
 h1{
     color:white;
     font-family:Arial, Helvetica, sans-serif;
     text-align: center;
+    padding:10px 10px;
 
 
 }
@@ -13,11 +15,21 @@ ul{
     color :black;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-
-
+    padding: 10px 10px;
+    
 }
-input {
+li{
+    border-radius: 5px;
+}
+input :first-child :placeholder-shown{
+
+
     color: white;
+    align-content:flex-start;
+    border-radius:5px ;
 
     
+}
+input :last-child {
+    border-radius: 8px;
 }
