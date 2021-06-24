@@ -15,19 +15,26 @@ h2{
 }
 
 ul{
+    list-style: none;
     padding: 5px 5px;
     margin:5px 5px;
 }
 
 li :horizontal:hover{
-    display: inline;
-    text-align: center;
-    font-family: Arial, Helvetica white;
-    background-color: #C03000;
-   
-    padding: 5px 5px;
+
     border:1px solid #660000;
-    margin:5px 5px ;
+    background-color: #C03000;
+    display: inline;
+}   
+li a{ 
+    color: #efecca;
+    text-decoration: none;
+    font-family: Arial, Helvetica white;
+    padding: auto;
+    margin: auto;
+
+
+
 }
 
 a:visited,a:active,a:hover{
