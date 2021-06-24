@@ -14,7 +14,7 @@ h2{
     text-align: left;
 }
 
-li:hover{
+li:vertical-align:{
     text-align: center;
     font-family: Arial, Helvetica white;
     background-color: #C03000;
