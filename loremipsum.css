@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    text-transform:lowercase;
+}
+h2{
+    text-decoration: underline;
+    text-decoration: overline;
+    text-indent: 20px;
+}
+h3{
+    font-style: italic;
+
+}
